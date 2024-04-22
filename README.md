@@ -1,9 +1,14 @@
+### NAME: HARINI B.
+### REGISTER NUMBER: 212221230035
+### DATE: 22-4-2024
+
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
+
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -78,38 +83,29 @@ Installation position: floor, ceiling, walls.
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
+3. click on the task builder and create a new task.
+4. Name the task as pick and place and build the task.
 
-3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
+### Program (Task List):
+```
+HARINI B.
+212221230035
+```
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/1ec14f9c-c28f-4540-aab4-eaefb6347498)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/cb56f450-d07e-415a-b2cd-79d3ea3be44c)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/7546c93b-d506-48da-ac2b-ee2bb2bb479a)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/c8dd95b2-6326-4835-bb0f-84607cafeea0)
 
 
+### Output :
+#### Pick :
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/668bc505-ab36-4319-897f-65b1eb4322c2)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/f8ad9b63-2fe7-443f-b623-1022ce158606)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/a45627da-710a-4561-9c6c-5918b4b5a9f9)
 
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
+#### Place :
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/a958f62e-46b8-4f90-9319-e1d4f8ad5704)
+![image](https://github.com/HariniBaskar/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427253/a1dea03e-8df1-4681-9697-93fa9ab33a1e)
 
 ### Results: 
-
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
